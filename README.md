@@ -72,5 +72,3 @@ To run this project locally, follow these steps:
 - Integrate other summarization models for better legal document understanding.
 - Improve the image preprocessing pipeline to handle more complex document layouts.
 
-## Contributing
-- We welcome contributions! Please fork the repository and submit a pull request.
